@@ -85,7 +85,7 @@
             android:padding="15dp"
             android:textColor="#7A8089"
             android:textSize="18sp"
-            tools:text="Google"/>
+            tools:text="Google" />
 
         <TextView
             android:id="@+id/tv_option_three"
